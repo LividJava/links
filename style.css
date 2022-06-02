@@ -1,8 +1,8 @@
 /* Style Settings */
 @import url('https://fonts.googleapis.com/css2?family=Karla:wght@700&display=swap');
 :root {
-    --bgColor:#3d3b3c;
-    --accentColor: #fff;
+    --bgColor:#131615;
+    --accentColor: #e2e2e2;
     --font: 'Karla', sans-serif;
 }
 
@@ -19,7 +19,7 @@ body{
 }
 
 #userName{
-    color: #fff;
+    color: #38b6f1;
     font-size: 1rem;
     font-weight: 700;
     line-height: 1.25;
